@@ -1,0 +1,26 @@
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-nav{
+    font-family: 'Bebas Neue', cursive;;
+    font-size: 25px;
+    background-color: orange;
+}
+
+.slogan{
+    font-family: 'Lobster', cursive;
+}
+
+#titre{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+#sousTitre{
+    color: orange;
+    display: flex;
+    justify-content: center;
+}
